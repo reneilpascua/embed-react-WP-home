@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.flag {
+  border: 1px solid #000000;
+  box-shadow: 5px 5px #cccccc;
+}
+
+.uncentered {
+  text-align: left;
+  display: inline-block;
+}
+
+.result-card {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  background-color: #faf5f0;
+}

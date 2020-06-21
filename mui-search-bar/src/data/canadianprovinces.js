@@ -2,105 +2,105 @@ export default [
     {
         id: 0,
         name: "British Columbia",
-        abbr: "BC",
+        abbreviation: "BC",
         capital: "Victoria",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/british_columbia_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_British_Columbia.svg/300px-Flag_of_British_Columbia.svg.png"
     },
     {
         id: 1,
         name: "Alberta",
-        abbr: "AB",
+        abbreviation: "AB",
         capital: "Edmonton",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/alberta_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Alberta.svg/300px-Flag_of_Alberta.svg.png"
     },
     {
         id: 2,
         name: "Saskatchewan",
-        abbr: "SK",
+        abbreviation: "SK",
         capital: "Saskatoon",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/saskatchewan_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Flag_of_Saskatchewan.svg/300px-Flag_of_Saskatchewan.svg.png"
     },
     {
         id: 3,
         name: "Manitoba",
-        abbr: "MB",
+        abbreviation: "MB",
         capital: "Winnipeg",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/manitoba_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Manitoba.svg/300px-Flag_of_Manitoba.svg.png"
     },
     {
         id: 4,
         name: "Ontario",
-        abbr: "ON",
+        abbreviation: "ON",
         capital: "Toronto",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/ontario_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Ontario.svg/300px-Flag_of_Ontario.svg.png"
     }, 
     {
         id: 5,
         name: "Quebec",
-        abbr: "QC",
+        abbreviation: "QC",
         capital: "Quebec",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/quebec_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Quebec.svg/300px-Flag_of_Quebec.svg.png"
     },
     {
         id: 6,
         name: "Newfoundland and Labrador",
-        abbr: "NL",
+        abbreviation: "NL",
         capital: "St. John's",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/newfoundland_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Newfoundland_and_Labrador.svg/300px-Flag_of_Newfoundland_and_Labrador.svg.png"
     },
     {
         id: 7,
         name: "New Brunswick",
-        abbr: "NB",
+        abbreviation: "NB",
         capital: "Fredericton",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/new_brunswick_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_New_Brunswick.svg/300px-Flag_of_New_Brunswick.svg.png"
     },
     {
         id: 8,
         name: "Nova Scotia",
-        abbr: "NS",
+        abbreviation: "NS",
         capital: "Halifax",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/nova_scotia_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Nova_Scotia.svg/300px-Flag_of_Nova_Scotia.svg.png"
     },
     {
         id: 9,
         name: "Prince Edward Island",
-        abbr: "PE",
+        abbreviation: "PE",
         capital: "Charlottetown",
         type: "Province",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/pei_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Prince_Edward_Island.svg/300px-Flag_of_Prince_Edward_Island.svg.png"
     },
     {
         id: 10,
         name: "Yukon",
-        abbr: "YT",
+        abbreviation: "YT",
         capital: "Whitehorse",
         type: "Territory",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/yukon_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Flag_of_Yukon.svg/300px-Flag_of_Yukon.svg.png"
     },
     {
         id: 11,
         name: "Northwest Territories",
-        abbr: "NT",
+        abbreviation: "NT",
         capital: "Yellowknife",
         type: "Territory",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/nwt_flag.gif"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_the_Northwest_Territories.svg/300px-Flag_of_the_Northwest_Territories.svg.png"
     },
     {
         id: 12,
         name: "Nunavut",
-        abbr: "NU",
+        abbreviation: "NU",
         capital: "Iqaluit",
         type: "Territory",
-        flagImageUrl: "https://www.nationsonline.org/oneworld/flags/nunavut_flag.jpg"
+        flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Flag_of_Nunavut.svg/300px-Flag_of_Nunavut.svg.png"
     }
 ]

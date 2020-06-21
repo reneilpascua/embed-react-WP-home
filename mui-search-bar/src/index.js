@@ -4,11 +4,12 @@ import './index.css';
 import App from './App';
 import canadianprovinces from './data/canadianprovinces';
 import americanstates from './data/americanstates';
+import provincesstates from './data/provincesstates';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App provinceData={canadianprovinces} statesData={americanstates} />
+    <App provinceData={canadianprovinces} statesData={americanstates} data={provincesstates}/>
   </React.StrictMode>,
   document.getElementById('root')
 );
