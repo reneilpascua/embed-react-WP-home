@@ -58,11 +58,10 @@ class ProvincesAndStates extends Component {
                         <input type="text" placeholder="Exact Name" value={this.state.searchterm} onChange={this.handleChange} />
                     </label>
                     <input type="submit" value="Submit" />
+                    <button>Table</button>
                 </form>
 
-                <div id="result-container">
-
-                </div>
+                <div id="result-container"></div>
             </div>
         );
     }

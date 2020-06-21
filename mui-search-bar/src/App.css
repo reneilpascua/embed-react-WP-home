@@ -55,3 +55,7 @@
   padding: 20px;
   background-color: #faf5f0;
 }
+
+form * {
+  margin:2px;
+}
