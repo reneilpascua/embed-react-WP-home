@@ -1,6 +1,7 @@
 {
   "name": "mui-search-bar",
   "version": "0.1.0",
+  "homepage": "http://localhost:8000/react-build",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

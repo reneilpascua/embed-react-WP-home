@@ -11,7 +11,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App provinceData={canadianprovinces} statesData={americanstates} data={provincesstates}/>
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('wp-react-ctr')
 );
 
 // If you want your app to work offline and load faster, you can change

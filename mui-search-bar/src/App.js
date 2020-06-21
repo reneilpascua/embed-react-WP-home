@@ -19,6 +19,14 @@ class App extends Component {
               <ProvincesAndStates data={this.props.data} />
             )}
           />
+
+          {/* this route is for the wordpress site (/react-build is depl. folder) */}
+          <Route 
+            exact path="/react-build"
+            render={(props) => (
+              <ProvincesAndStates data={this.props.data} />
+            )}
+          />
         </Router>
       </div>
     );
