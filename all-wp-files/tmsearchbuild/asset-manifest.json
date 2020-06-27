@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tmsearchbuild/static/css/main.9bb4bb14.chunk.css",
+    "main.js": "/tmsearchbuild/static/js/main.679dd09d.chunk.js",
+    "main.js.map": "/tmsearchbuild/static/js/main.679dd09d.chunk.js.map",
+    "runtime-main.js": "/tmsearchbuild/static/js/runtime-main.7bee96e3.js",
+    "runtime-main.js.map": "/tmsearchbuild/static/js/runtime-main.7bee96e3.js.map",
+    "static/js/2.ffa500a7.chunk.js": "/tmsearchbuild/static/js/2.ffa500a7.chunk.js",
+    "static/js/2.ffa500a7.chunk.js.map": "/tmsearchbuild/static/js/2.ffa500a7.chunk.js.map",
+    "index.html": "/tmsearchbuild/index.html",
+    "precache-manifest.765e141190a0ecfe41f72d72639898c6.js": "/tmsearchbuild/precache-manifest.765e141190a0ecfe41f72d72639898c6.js",
+    "service-worker.js": "/tmsearchbuild/service-worker.js",
+    "static/css/main.9bb4bb14.chunk.css.map": "/tmsearchbuild/static/css/main.9bb4bb14.chunk.css.map",
+    "static/js/2.ffa500a7.chunk.js.LICENSE.txt": "/tmsearchbuild/static/js/2.ffa500a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bee96e3.js",
+    "static/js/2.ffa500a7.chunk.js",
+    "static/css/main.9bb4bb14.chunk.css",
+    "static/js/main.679dd09d.chunk.js"
+  ]
+}
